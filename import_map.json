@@ -1,5 +1,7 @@
 {
   "imports": {
+    "deco-sites/teste-footer/": "./",
+
     "deco-sites/bf-onserp/": "./",
 
     "$store/": "./",
